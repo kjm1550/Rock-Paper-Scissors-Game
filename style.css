@@ -1,9 +1,9 @@
-:root{
-	--back-color: #B0CDE1;
-	--second-color: #AC2F02;
-	--main-color: #E7D3B9;
+:root {
+	--back-color: #b0cde1;
+	--second-color: #ac2f02;
+	--main-color: #e7d3b9;
 	--hover-color: #352115;
-	--hover-back-color: #B99878;
+	--hover-back-color: #b99878;
 }
 
 * {
@@ -24,13 +24,14 @@ html {
 	color: var(--second-color);
 }
 
-h1, h2 {
+h1,
+h2 {
 	text-align: center;
 	font-size: 3.5em;
 }
 h2 {
 	margin-top: 4px;
-	font-size: 2.4em
+	font-size: 2.4em;
 }
 
 .container {
